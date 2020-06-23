@@ -8,3 +8,8 @@ This project is an implementation of [Mercury OS](https://uxdesign.cc/introducin
 [Electron](https://electronjs.org/)
 [GraphQL](https://graphql.org/)
 [TensorflowJS/TensorflowPython](https://www.tensorflow.org/)
+
+#### Local development:
+
+- `npm install` or `yarn install`
+- `npm start` or `yarn start`
